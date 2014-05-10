@@ -21,6 +21,6 @@ Global
 		{56605627-E6FA-4F47-9440-FB877CEA5C84}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = ..\GhostScriptSharp\GhostscriptSharp.csproj
+		StartupItem = ..\GhostscriptSharpImplementation\GhostscriptSharpImplementation.csproj
 	EndGlobalSection
 EndGlobal
