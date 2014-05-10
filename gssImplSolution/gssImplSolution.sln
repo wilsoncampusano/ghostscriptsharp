@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostscriptSharp", "..\GhostScriptSharp\GhostscriptSharp.csproj", "{56605627-E6FA-4F47-9440-FB877CEA5C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostscriptSharpImplementation", "..\GhostscriptSharpImplementation\GhostscriptSharpImplementation.csproj", "{0E588453-73FF-4FC3-957D-8B15BE6DA87F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E588453-73FF-4FC3-957D-8B15BE6DA87F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0E588453-73FF-4FC3-957D-8B15BE6DA87F}.Debug|x86.Build.0 = Debug|Any CPU
+		{0E588453-73FF-4FC3-957D-8B15BE6DA87F}.Release|x86.ActiveCfg = Release|Any CPU
+		{0E588453-73FF-4FC3-957D-8B15BE6DA87F}.Release|x86.Build.0 = Release|Any CPU
+		{56605627-E6FA-4F47-9440-FB877CEA5C84}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{56605627-E6FA-4F47-9440-FB877CEA5C84}.Debug|x86.Build.0 = Debug|Any CPU
+		{56605627-E6FA-4F47-9440-FB877CEA5C84}.Release|x86.ActiveCfg = Release|Any CPU
+		{56605627-E6FA-4F47-9440-FB877CEA5C84}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ..\GhostScriptSharp\GhostscriptSharp.csproj
+	EndGlobalSection
+EndGlobal
